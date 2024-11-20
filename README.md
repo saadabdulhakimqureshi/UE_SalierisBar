@@ -16,4 +16,4 @@ This is an attempt at recreating the iconic Salieri's Bar from the first **[Mafi
 
 ### **[Assetsville Town](https://www.fab.com/listings/fd558d8c-bd7e-461f-8449-a7cc9c277078)**
 
-![Assetsville Town](Images/AssetsvilleTown.jpg)
+![Assetsville Town](Images/AssetsvilleTown01.jpg)
